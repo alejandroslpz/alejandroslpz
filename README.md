@@ -22,14 +22,8 @@
 
 ###
 
-<img align="right" height="330" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/alejandroslpz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=alejandroslpz&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+<div align="center">
+<img height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
 </div>
 
 ###
@@ -67,9 +61,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandroslpz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
